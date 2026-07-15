@@ -5,7 +5,7 @@
 
 ### 🍔 Food • 🎁 Gift • ✈️ Travel • ⚽ Sports
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Flutter+Application;Modern+UI;Fast+%26+Responsive;Made+with+❤️+using+Flutter" />
+
 
 <br>
 
