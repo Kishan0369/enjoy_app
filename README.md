@@ -78,16 +78,20 @@ Users can search, browse categories, view details, upload photos/videos, add loc
 
 ---
 
-# 🖼️ Application Screens
+# 📸 Application Screens
 
-|Food | Gift |
-|------|------|------|
-|<img src="screenshots/food.jpeg" width="220"> | <img src="screenshots/gift.jpeg" width="220"> |
+<p align="center">
+  <img src="screenshots/food.jpeg" width="180"/>
+  <img src="screenshots/gift.jpeg" width="180"/>
+  <img src="screenshots/sport.jpeg" width="180"/>
+  <img src="screenshots/travel.jpeg" width="180"/>
+</p>
 
-| Sports | Camera |
-|------|------|------|
-| <img src="screenshots/sport.jpeg" width="220"> | <img src="screenshots/add_item.jpeg" width="220"> | <img src="screenshots/add_1.jpeg" width="220"> |<img src="screenshots/add_2.jpeg" width="220"> |<img src="screenshots/add_3.jpeg" width="220"> |
-
+<p align="center">
+  <img src="screenshots/add_1.jpeg" width="180"/>
+  <img src="screenshots/add_2.jpeg" width="180"/>
+  <img src="screenshots/add_3.jpeg" width="180"/>
+</p>
 ---
 
 # 🚀 Main Modules
