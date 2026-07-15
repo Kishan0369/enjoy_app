@@ -82,7 +82,7 @@ Users can search, browse categories, view details, upload photos/videos, add loc
 
 | Home | Food | Gift |
 |------|------|------|
-| <img src="screenshots/home.png" width="220"> | <img src="screenshots/food.png" width="220"> | <img src="screenshots/gift.png" width="220"> |
+| <img src="screenshots/food.png" width="220"> | <img src="screenshots/food.png" width="220"> | <img src="screenshots/gift.png" width="220"> |
 
 | Sports | Add Business | Camera |
 |------|------|------|
