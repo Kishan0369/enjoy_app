@@ -9,9 +9,9 @@
 
 <br>
 
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME/enjoy-app?style=for-the-badge"/>
-<img src="https://img.shields.io/github/forks/YOUR_USERNAME/enjoy-app?style=for-the-badge"/>
-<img src="https://img.shields.io/github/license/YOUR_USERNAME/enjoy-app?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/Kishan0369/enjoy-app?style=for-the-badge"/>
+<img src="https://img.shields.io/github/forks/Kishan0369/enjoy-app?style=for-the-badge"/>
+<img src="https://img.shields.io/github/license/Kishan0369/enjoy-app?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge&logo=flutter"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart"/>
 
