@@ -80,7 +80,7 @@ Users can search, browse categories, view details, upload photos/videos, add loc
 
 # 📸 Application Screens
 
-<p align="center">
+<p align="start">
   <img src="screenshots/food.jpeg" width="180"/>
   <img src="screenshots/gift.jpeg" width="180"/>
   <img src="screenshots/sport.jpeg" width="180"/>
