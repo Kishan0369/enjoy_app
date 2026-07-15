@@ -87,7 +87,7 @@ Users can search, browse categories, view details, upload photos/videos, add loc
   <img src="screenshots/travel.jpeg" width="180"/>
 </p>
 
-<p align="center">
+<p align="start">
   <img src="screenshots/add_1.jpeg" width="180"/>
   <img src="screenshots/add_2.jpeg" width="180"/>
   <img src="screenshots/add_3.jpeg" width="180"/>
@@ -189,6 +189,6 @@ flutter run
 
 Flutter Developer
 
-📧 your-email@gmail.com
+📧 kjprajapati2001@gmail.com
 
 ⭐ If you like this project, don't forget to Star the repository.
