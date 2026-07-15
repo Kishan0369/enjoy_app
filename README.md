@@ -76,7 +76,6 @@ Users can search, browse categories, view details, upload photos/videos, add loc
 
 ✅ Responsive Design
 
----
 
 # 📸 Application Screens
 
