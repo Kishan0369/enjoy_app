@@ -156,7 +156,7 @@ lib/
 # 🚀 Installation
 
 ```bash
-git clone https://github.com/yourusername/enjoy-app.git
+git clone https://github.com/Kishan0369/enjoy-app.git
 
 cd enjoy-app
 
