@@ -82,11 +82,11 @@ Users can search, browse categories, view details, upload photos/videos, add loc
 
 | Home | Food | Gift |
 |------|------|------|
-| <img src="screenshots/food.png" width="220"> | <img src="screenshots/food.png" width="220"> | <img src="screenshots/gift.png" width="220"> |
+| <img src="screenshots/food.jpeg" width="220"> | <img src="screenshots/food.jpeg" width="220"> | <img src="screenshots/gift.jpeg" width="220"> |
 
 | Sports | Add Business | Camera |
 |------|------|------|
-| <img src="screenshots/sports.png" width="220"> | <img src="screenshots/add_item.png" width="220"> | <img src="screenshots/camera.png" width="220"> |
+| <img src="screenshots/sports.jpeg" width="220"> | <img src="screenshots/add_item.jpeg" width="220"> | <img src="screenshots/add_1.jpeg" width="220"> |<img src="screenshots/add_2.jpeg" width="220"> |<img src="screenshots/add_3.jpeg" width="220"> |
 
 ---
 
